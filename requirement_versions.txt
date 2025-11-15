@@ -71,6 +71,7 @@ referencing==0.37.0
 requests==2.32.5
 rich==14.2.0
 rpds-py==0.28.0
+scikeras==0.13.0
 scikit-learn==1.7.2
 scipy==1.16.3
 seaborn==0.13.2
